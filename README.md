@@ -23,5 +23,5 @@ OMDb API (or whichever API you used)
 🌐 Live Demo
  https://lokesh-kumar8000.github.io/Movie-Search-app/
 
-🙋‍♂️ Author
-Lokesh Kumar
+🙋‍♂️ Author 
+Lokesh Kumar  
